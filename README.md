@@ -27,5 +27,16 @@ imageProcessing materials
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |  
 
+`code section`
+```python
+import sys
+
+for path in sys.path:
+    pirnt path
+
+print "end of for_loop"
+
+```
+
 
 
