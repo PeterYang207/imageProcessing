@@ -19,14 +19,22 @@ imageProcessing materials
 >> this is second comment
 
 *bold words*  
-**light words**  
+**light words**    
 
+### tables
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |  
 
+### table2
+| table2 | is | cool |
+| ------ |:---:| ---:|
+| code   | is | cool |
+
+
+### code block
 `code section`
 ```python
 import sys
