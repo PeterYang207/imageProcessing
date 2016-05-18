@@ -48,10 +48,11 @@ print "end of for_loop"
 
 ------------
 ### to do list    
-[x] todo list1  
-[x] todo list2  
-[x] todo list3  
-[ ] todo list4  
+- [x] todo list1  
+    - [ ] secdond todo list
+- [x] todo list2  
+- [x] todo list3  
+- [ ] todo list4  
 
 
 ----
