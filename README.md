@@ -75,14 +75,13 @@ print "end of for_loop"
 ### flow chart  
 
 
-```flow
-flow 
+```flow  
 st=>start: 项目Export 
 e=>end: 结束 
 op1=>operation: 选择java下的javadoc 
 op2=>operation: 选择要导出的工程 
 op3=>operation: java doc的配置设置 
-st->op1->op2->op3->e 
+st->op1->op2->op3->e   
 ```
 
 
