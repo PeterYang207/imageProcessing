@@ -68,9 +68,13 @@ print "end of for_loop"
     - [ ] 准备邮轮上需要携带的物品
     - [ ] 浏览日本免税店的物品
     - [x] 购买蓝宝石公主号七月一日的船票
+
+
 -------------------------------------
 
 ### flow chart  
+
+
 ```flow
 st=>start: Start|past:>http://www.google.com[blank]
 e=>end: End:>http://www.google.com
@@ -88,3 +92,5 @@ cond(no)->sub1(left)->op1
 c2(yes)->io->e
 c2(no)->op2->e
 ```
+
+
