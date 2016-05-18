@@ -18,7 +18,7 @@ imageProcessing materials
 > this is comment
 >> this is second comment
 
-*bold words*
+*bold words*  
 **light words**
 
 
