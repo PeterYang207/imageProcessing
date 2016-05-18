@@ -72,45 +72,10 @@ print "end of for_loop"
 
 -------------------------------------
 
-### flow chart  
 
-
-```flow  
-
-st=>start: 项目Export 
-e=>end: 结束 
-op1=>operation: 选择java下的javadoc 
-op2=>operation: 选择要导出的工程 
-op3=>operation: java doc的配置设置 
-st->op1->op2->op3->e   
-
-```
-
-
---------------  
 ~~delete line~~  
 --------------  
 
 
 
-### test flow chart
 
-```flow  
-start=>start: 开始
-isLogin=>condition: 是否已登录？
-login=>operation: 登陆
-selectPic=>operation: 选择一张图片
-isPic=>condition: 格式是否正确？
-doIt=>operation: 完成资料
-isRight=>condition: 资料是否符合要求？
-end=>end: 完成
-
-start->isLogin
-isLogin(yes)->selectPic
-isLogin(no)->login->selectPic
-selectPic->isPic
-isPic(yes)->doIt->isRight
-isPic(no)->selectPic
-isRight(yes)->end
-isRight(no)->doIt
-```
